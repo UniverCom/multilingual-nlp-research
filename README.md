@@ -19,6 +19,6 @@ machine learning paradigms.
 
 ---
 
-*Written August 2024 during a research internship at Brainy Technologies. 
+*Written August 2024 during a research internship. 
 Reflects the model landscape at that time; the linguistic and philosophical 
 arguments in the closing sections are not time-bound.*
