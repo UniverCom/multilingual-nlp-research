@@ -1,7 +1,7 @@
 # Multilingual NLP Architectures: A Linguistic Analysis
 
-A technical research report examining four multilingual NLP architectures — 
-**mBERT, XLM-R, ByT5, and GPT** — from a computational linguistics perspective.
+A technical research report examining four multilingual NLP architectures; 
+**mBERT, XLM-R, ByT5, and GPT** from a computational linguistics perspective.
 
 The report covers, for each model:
 - Tokenization strategy (WordPiece, BPE, byte-level) and its morphological implications
